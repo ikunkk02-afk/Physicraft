@@ -1,0 +1,31 @@
+{
+  "itemGroup.physicraft": "Physicraft",
+  "item.physicraft.physics_converter": "物理转换器",
+  "item.physicraft.physics_converter.hint": "对方块右键，把它变成刚体。再对刚体右键，可以还原成方块。",
+  "entity.physicraft.physics_block": "物理方块",
+
+  "physicraft.converter.not_full_cube": "只能转换完整的实心方块",
+  "physicraft.converter.native_failed": "物理引擎加载失败：%s",
+  "physicraft.converter.too_many": "这个维度里的物理方块已达到 %s 个上限",
+  "physicraft.converter.restore_blocked": "这个位置不够空，无法还原方块",
+  "physicraft.converter.failed": "无法生成物理方块",
+
+  "physicraft.configuration.title": "Physicraft",
+  "physicraft.configuration.section.physicraft.common.toml": "Physicraft",
+  "physicraft.configuration.section.physicraft.common.toml.title": "Physicraft",
+  "physicraft.configuration.physics": "物理",
+  "physicraft.configuration.physics.gravity": "重力",
+  "physicraft.configuration.physics.windX": "风力 X",
+  "physicraft.configuration.physics.windY": "风力 Y",
+  "physicraft.configuration.physics.windZ": "风力 Z",
+  "physicraft.configuration.physics.friction": "方块摩擦",
+  "physicraft.configuration.physics.terrainFriction": "地形摩擦",
+  "physicraft.configuration.physics.restitution": "弹性",
+  "physicraft.configuration.physics.linearDamping": "线速度阻尼",
+  "physicraft.configuration.physics.angularDamping": "角速度阻尼",
+  "physicraft.configuration.physics.breakImpulse": "破坏冲量",
+  "physicraft.configuration.physics.minImpactSpeed": "最低撞击速度",
+  "physicraft.configuration.physics.breakDropsItem": "破坏时掉落",
+  "physicraft.configuration.physics.terrainRadius": "地形半径",
+  "physicraft.configuration.physics.maxBodies": "数量上限"
+}
