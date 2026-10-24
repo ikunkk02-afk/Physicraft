@@ -1,0 +1,31 @@
+{
+  "itemGroup.physicraft": "Physicraft",
+  "item.physicraft.physics_converter": "Physics Converter",
+  "item.physicraft.physics_converter.hint": "Right-click a full solid block to make it physical. Right-click the body again to restore it.",
+  "entity.physicraft.physics_block": "Physics Block",
+
+  "physicraft.converter.not_full_cube": "Only full solid blocks can be converted",
+  "physicraft.converter.native_failed": "Physics engine failed to load: %s",
+  "physicraft.converter.too_many": "This dimension already has %s physics blocks",
+  "physicraft.converter.restore_blocked": "That space is not empty enough to restore the block",
+  "physicraft.converter.failed": "Could not spawn the physics block",
+
+  "physicraft.configuration.title": "Physicraft",
+  "physicraft.configuration.section.physicraft.common.toml": "Physicraft",
+  "physicraft.configuration.section.physicraft.common.toml.title": "Physicraft",
+  "physicraft.configuration.physics": "Physics",
+  "physicraft.configuration.physics.gravity": "Gravity",
+  "physicraft.configuration.physics.windX": "Wind X",
+  "physicraft.configuration.physics.windY": "Wind Y",
+  "physicraft.configuration.physics.windZ": "Wind Z",
+  "physicraft.configuration.physics.friction": "Block Friction",
+  "physicraft.configuration.physics.terrainFriction": "Terrain Friction",
+  "physicraft.configuration.physics.restitution": "Restitution",
+  "physicraft.configuration.physics.linearDamping": "Linear Damping",
+  "physicraft.configuration.physics.angularDamping": "Angular Damping",
+  "physicraft.configuration.physics.breakImpulse": "Break Impulse",
+  "physicraft.configuration.physics.minImpactSpeed": "Minimum Impact Speed",
+  "physicraft.configuration.physics.breakDropsItem": "Drop Items On Break",
+  "physicraft.configuration.physics.terrainRadius": "Terrain Radius",
+  "physicraft.configuration.physics.maxBodies": "Max Bodies"
+}
